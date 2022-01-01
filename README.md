@@ -1,4 +1,7 @@
 ## Part-of-Speech Tagging
+
+As part of a University Assignment, I was tasked to build a probabilistic model to assign POS tags to words in a given sentence. Word accuracy and Sentence accuracy were the two parameters that were used in order to evaluate how good the model was. Please use this only as a reference, using my code for academic purposes may result in hefty plagarism issues. 
+
 A basic problems in Natural Language Processing is part-of-speech tagging, in which the goal is to mark every word in a sentence with its part of speech.
 
 Part of speech tagging is prime, and there are multiple ways to tag words in a given sentence to its correspoding tag. To solve this age-old problem, I have implemented three different techniques to do the task. The three methods showcase different probabilistic methods, that build-up on one another.
